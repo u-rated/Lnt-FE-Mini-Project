@@ -68,12 +68,6 @@ input{
     align-items: center;
 }
 
-/* .login-logo img{
-    max-width: 200rem;
-    max-height: 200px;
-    display: block;
-} */
-
 .login-logo .ini__desc{
     font-family: 'SFProDisplay-Regular', Helvetica, Arial, sans-serif;
     font-size: 28px;
@@ -239,5 +233,3 @@ input[type="password"]:focus
     width:  90%;
     margin-left: 52px;
 }
-
-/* =================Register Pop Up================= */
